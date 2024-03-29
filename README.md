@@ -27,3 +27,7 @@ SECRET_KEY = ''
 2. User can add items in the basket(even multiple items)
 3. Strip payment
 4. Wishlist and order confirmation etc
+
+![image](https://github.com/rohanrk17/Ecommerce_webbased/assets/17472418/83ddc850-c55e-411d-bbd1-6e951af1e058)
+
+![image](https://github.com/rohanrk17/Ecommerce_webbased/assets/17472418/8cc5b71c-2b5b-4ad7-ab77-75909960656b)
